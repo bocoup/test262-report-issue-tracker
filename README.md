@@ -11,7 +11,7 @@ This repository is used as a public issue tracker to report bugs and feature req
 You can read more about this project on the [project about page](https://test262.report/about) or in our [Test262 Report announcement](https://bocoup.com/blog/announcing-test262-report) on the Bocoup Blog. 
 
 ### Licensing and Contact
-The source code for the tools used to build this report is publicly available, free to use, and maintained by the Bocoup team. The systems for orchestrating these tools in CI for daily runs, the data produced by this system, and the Test262 Report website are internal to Bocoup. If you would like to incorporate the confromance datat that we collect, or use these systems in some other way, please email [reports@bocoup.com](mailto:reports@bocoup.com).
+The source code for the tools used to run Test262 test material across multiple engines is publicly available, free to use, and maintained by the Bocoup team. The systems for orchestrating these tools in CI for daily runs, the data produced by this system, and the Test262 Report website are internal to Bocoup. If you would like to incorporate the confromance data that we collect, or use these systems in some other way, please email [reports@bocoup.com](mailto:reports@bocoup.com).
 
 
 ### Code of Conduct
