@@ -6,9 +6,12 @@ We collect the data for [Test262 Report](https://test262.report/) using <a href=
 
 This repository is used as a public issue tracker to report bugs and feature requests for the report itself. Thank you for taking the time to visit this issue tracker and share your feedback. We really appreciate it! Before submitting a new issue to document a bug or request a feature, take a look over the open and closed issues in the [issue tracker](https://github.com/bocoup/test262-report-issue-tracker/issues), and see if there is an existing thread to contribute to. If not please [open a new issue](https://github.com/bocoup/test262-report-issue-tracker/issues/new) and follow the guidelines in our template. Thanks again :)!
 
-### Further Reading and Contact
+### Further Reading
 
-You can read more about this project on the [project about page](https://test262.report/about) or in our [Test262 Report announcement](https://bocoup.com/blog/announcing-test262-report) on the Bocoup Blog. If you would like to use Test262 Report commercially, or if you have any further questions or inquiry, please email [reports@bocoup.com](mailto:reports@bocoup.com).
+You can read more about this project on the [project about page](https://test262.report/about) or in our [Test262 Report announcement](https://bocoup.com/blog/announcing-test262-report) on the Bocoup Blog. 
+
+### Licensing and Contact
+The source code for the tools used to build this report is publicly available, free to use, and maintained by the Bocoup team. The systems for orchestrating these tools in CI for daily runs, the data produced by this system, and the Test262 Report website are internal to Bocoup. If you would like to incorporate the confromance datat that we collect, or use these systems in some other way, please email [reports@bocoup.com](mailto:reports@bocoup.com).
 
 
 ### Code of Conduct
