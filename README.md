@@ -1,6 +1,6 @@
 # Test262 Report - Issue Tracker
 
-[Test262 Report](https://test262.report/) is developed and mantained by [Bocoup](https://bocoup.com/). It provides JavaScript developers with up-to-date information on the state of new and existing language features across implementations. Test262 Report is based on daily runs of [Test262](https://github.com/tc39/test262), the [ECMA-262 (“ECMAScript” or “JavaScript”)](https://tc39.github.io/ecma262/) test suite, in nightly builds of JavaScript engines, and visualizes at-a-glance status of feature implementation progress.
+[Test262 Report](https://test262.report/) is developed and mantained by [Bocoup](https://bocoup.com/). It provides JavaScript developers with up-to-date information on the state of new and existing language features across implementations. Test262 Report checks for changes to [Test262](https://github.com/tc39/test262), the [ECMA-262 (“ECMAScript” or “JavaScript”)](https://tc39.github.io/ecma262/) test suite, and each engine every day. If Test262 changes, all engines are rerun through the new version of Test262. If one engine changes, only that engine is run through test262. If no engines change and Test262 does not change, no new runs are made.
 
 We run Test262 test material via [Test262-harness](https://github.com/bterlson/test262-harness), which itself uses [eshost](https://github.com/bterlson/eshost) to normalize host runtime environment disparities. We use [jsvu](https://github.com/GoogleChromeLabs/jsvu) to install the latest engine binaries.
 
